@@ -17,7 +17,8 @@ function About() {
           employees, vendors, shareholders, and the community is a long-term, sustainable way
         </h4>
         <h5>thank you</h5>
-
+        <h6>ShreyaSaliyan</h6>
+      
       </div>
      
     </div>
